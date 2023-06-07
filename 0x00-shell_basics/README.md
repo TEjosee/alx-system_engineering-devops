@@ -9,3 +9,6 @@
 
 # cd -
 *change to home directory
+
+#mkdir
+*create a directory
