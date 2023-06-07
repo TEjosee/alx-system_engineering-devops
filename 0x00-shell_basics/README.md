@@ -7,5 +7,5 @@
 #ls 
 *It is used to list the content of a file or directory
 
-#cd "${home_dir}"
+#cd ..
 *It is used to navigate to the home directory.
