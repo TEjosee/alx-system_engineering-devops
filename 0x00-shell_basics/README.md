@@ -8,3 +8,4 @@
 *It is used to list the content of a file or directory
 
 # cd -
+*change to home directory
