@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -f1 "$LOG_FILE" | sort | uniq -c | sort -nr
