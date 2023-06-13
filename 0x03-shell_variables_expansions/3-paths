@@ -1,0 +1,2 @@
+#!/bin/bash
+count Number="numbers -d in PATH"$PATH
