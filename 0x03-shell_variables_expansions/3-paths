@@ -1,2 +1,2 @@
 #!/bin/bash
-count Number=$PATH -d
+echo NUMBER [[d]]$PATH
